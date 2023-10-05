@@ -388,7 +388,7 @@
         },
         {
           "name": "**_Basic Examples_**",
-          "value": "You probably want to start off with something like these commands. One command at a time. Change the distances (d=metres) to suit yourself. \n`{{prefix}}location 123 Common Road, Town, Region` \n`{{prefix}}track unown azelf mesprit uxie d5000 ` \n`{{prefix}}track archen axew gible gabite cranidos deino zweilous litwick lampent riolu darumaka d1500` \n`{{prefix}}raid timburr litwick d1500` \n`{{prefix}}track everything iv100 d1000` \n`{{prefix}}quest silver_pinap_berry d500 clean`"
+          "value": "You probably want to start off with something like these commands. One command at a time. Change the distances (d=meters) to suit yourself. \n`{{prefix}}location 123 Common Road, Town, Region` \n`{{prefix}}track unown azelf mesprit uxie d5000 ` \n`{{prefix}}track archen axew gible gabite cranidos deino zweilous litwick lampent riolu darumaka d1500` \n`{{prefix}}raid timburr litwick d1500` \n`{{prefix}}track everything iv100 d1000` \n`{{prefix}}quest silver_pinap_berry d500 clean`"
         },
         {
           "name": "**Monster tracking commands**",
@@ -423,8 +423,8 @@
           "value": "See all details about the commands in [the full manual](https://muckelba.github.io/poracleWiki/userguide/)"
         },
         {
-          "name": "**How far can I walk in metres/minutes? According to the web...**",
-          "value": "```Metres | Fast | Moderate | Easy Walk \n 1000      7       10         13 \n 2000      14      20         25 \n 3000      21      30         38 \n 4000      28      40         50 \n 5000      35      50         63```"
+          "name": "**How far can I walk in meters/minutes? According to the web...**",
+          "value": "```Meters | Fast | Moderate | Easy Walk \n 1000      7       10         13 \n 2000      14      20         25 \n 3000      21      30         38 \n 4000      28      40         50 \n 5000      35      50         63```"
         }
       ]
     }
@@ -447,7 +447,7 @@
           },
           {
             "name": "***Basic Examples***",
-            "value": "You probably want to start off with something like these 5 commands. Change the distances (d=metres) to suit yourself. \n`{{prefix}}location 123 Common Road, Town, Region` \n`{{prefix}}track archen axew gible gabite cranidos deino zweilous litwick lampent riolu darumaka unown d1500` \n`{{prefix}}raid timburr litwick d1500` \n`{{prefix}}track everything iv100 d1000` \n`{{prefix}}quest silver_pinap_berry d500 clean`"
+            "value": "You probably want to start off with something like these 5 commands. Change the distances (d=meters) to suit yourself. \n`{{prefix}}location 123 Common Road, Town, Region` \n`{{prefix}}track archen axew gible gabite cranidos deino zweilous litwick lampent riolu darumaka unown d1500` \n`{{prefix}}raid timburr litwick d1500` \n`{{prefix}}track everything iv100 d1000` \n`{{prefix}}quest silver_pinap_berry d500 clean`"
           },
           {
             "name": "***Monster tracking commands***",
@@ -478,8 +478,8 @@
             "value": "See all details about the commands in [the full manual](https://muckelba.github.io/poracleWiki/userguide/)"
           },
           {
-            "name": "***How far can I walk in metres/minutes? According to the web...***",
-            "value": "`Metres | Fast | Moderate | Easy Walk \n 1000      7       10         13 \n 2000      14      20         25 \n 3000      21      30         38 \n 4000      28      40         50 \n 5000      35      50         63`"
+            "name": "***How far can I walk in meters/minutes? According to the web...***",
+            "value": "`Meters | Fast | Moderate | Easy Walk \n 1000      7       10         13 \n 2000      14      20         25 \n 3000      21      30         38 \n 4000      28      40         50 \n 5000      35      50         63`"
           }
         ]
       }
